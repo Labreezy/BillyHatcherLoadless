@@ -68,10 +68,10 @@
       <Content Include="loading.png">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </Content>
-      <Content Include="monkey_103.mp4">
+      <Content Include="mim_104.mp4">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
-      <Content Include="monkey_103_c5b3.mp4">
+      <Content Include="mim_snippet.mp4">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
     </ItemGroup>
