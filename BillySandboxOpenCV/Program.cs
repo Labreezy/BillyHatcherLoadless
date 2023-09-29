@@ -125,6 +125,8 @@ namespace BillySandboxOpenCV
             }
          
             Console.WriteLine($"Total Load Time: {formatSeconds(totalLoadTime/1000)}");
+            Console.WriteLine("Press Enter to Exit...");
+            Console.ReadLine();
         }
     }
 }
